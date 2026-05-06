@@ -1,0 +1,2 @@
+plugins/module_utils/opnsense_utils.py pylint:ansible-bad-function
+plugins/module_utils/version_utils.py pylint:ansible-bad-function
