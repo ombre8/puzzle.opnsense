@@ -211,10 +211,18 @@ jobs:
             python: '3.11'
           - ansible: stable-2.12
             python: '3.12'
+          - ansible: stable-2.12
+            python: '3.13'
+          - ansible: stable-2.12
+            python: '3.14'
           - ansible: stable-2.13
             python: '3.11'
           - ansible: stable-2.13
             python: '3.12'
+          - ansible: stable-2.13
+            python: '3.13'
+          - ansible: stable-2.13
+            python: '3.14'
           - ansible: stable-2.14
             python: '3.12'
           - ansible: stable-2.14
@@ -222,9 +230,13 @@ jobs:
           - ansible: stable-2.14
             python: '3.14'
           - ansible: stable-2.15
+            python: '3.12'
+          - ansible: stable-2.15
             python: '3.13'
           - ansible: stable-2.15
             python: '3.14'
+          - ansible: stable-2.16
+            python: '3.13'
           - ansible: stable-2.16
             python: '3.14'
           - ansible: devel
