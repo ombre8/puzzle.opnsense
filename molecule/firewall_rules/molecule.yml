@@ -40,7 +40,7 @@ platforms:
 provisioner:
   name: ansible
   env:
-    ANSIBLE_LIBRARY: "${VIRTUAL_ENV}/lib/python3.11/site-packages/molecule_plugins/vagrant/modules"
+    ANSIBLE_LIBRARY: "${VIRTUAL_ENV}/lib/python3.14/site-packages/molecule_plugins/vagrant/modules"
 #   ANSIBLE_VERBOSITY: 3
 verifier:
   name: ansible
