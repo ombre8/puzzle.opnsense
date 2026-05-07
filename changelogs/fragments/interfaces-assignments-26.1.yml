@@ -1,0 +1,2 @@
+bugfixes:
+  - interfaces_assignments - add OPNsense 26.1 molecule platform, remove 24.1
