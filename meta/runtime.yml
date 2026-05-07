@@ -6,10 +6,6 @@ plugin_routing:
       deprecation:
         removal_version: 3.0.0
         warning_text: Use oxlorg.opnsense.alias instead.
-    firewall_rules:
-      deprecation:
-        removal_version: 3.0.0
-        warning_text: Use oxlorg.opnsense.rule instead.
     system_settings_logging:
       deprecation:
         removal_version: 3.0.0
