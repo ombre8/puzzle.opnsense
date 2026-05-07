@@ -10,10 +10,6 @@ plugin_routing:
       deprecation:
         removal_version: 3.0.0
         warning_text: Use oxlorg.opnsense.rule instead.
-    system_settings_logging:
-      deprecation:
-        removal_version: 3.0.0
-        warning_text: Use oxlorg.opnsense.syslog instead.
     system_access_users:
       deprecation:
         removal_version: 3.0.0
