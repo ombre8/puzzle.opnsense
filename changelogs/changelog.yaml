@@ -137,10 +137,3 @@ releases:
     - 168-drop-23.1.yml
     - 181-add-25.7-support.yml
     release_date: '2025-11-03'
-  2.1.0:
-    changes:
-      major_changes:
-      - OPNsense 26.1 support
-    fragments:
-    - add-26.1-support.yml
-    release_date: '2026-05-06'

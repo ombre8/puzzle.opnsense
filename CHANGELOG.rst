@@ -4,14 +4,6 @@ OPNsense Collection Release Notes
 
 .. contents:: Topics
 
-v2.1.0
-======
-
-Major Changes
--------------
-
-- OPNsense 26.1 support
-
 v2.0.0
 ======
 
