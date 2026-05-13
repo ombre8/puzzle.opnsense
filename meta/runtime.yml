@@ -4,7 +4,7 @@ plugin_routing:
   modules:
     system_settings_logging:
       deprecation:
-        removal_version: 3.0.0
+        removal_version: 4.0.0
         warning_text: Use oxlorg.opnsense.syslog instead.
     firewall_alias:
       deprecation:
