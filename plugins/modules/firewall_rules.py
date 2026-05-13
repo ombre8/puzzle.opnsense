@@ -23,7 +23,7 @@ short_description: This module is used to manage OPNSense firewall rules
 version_added: "1.0.0"
 
 deprecated:
-  removed_in: 3.0.0
+  removed_in: 4.0.0
   why: This configuration is supported using the API and therefore implemented in the oxlorg.opnsense collection.
   alternative: Use L(oxlorg.opnsense.rule, https://ansible-opnsense.oxl.app/modules/rule.html) instead.
 

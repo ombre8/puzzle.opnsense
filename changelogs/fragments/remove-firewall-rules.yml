@@ -1,0 +1,2 @@
+deprecated_features:
+  - firewall_rules - will be removed in version 4.0.0; use oxlorg.opnsense.rule instead
