@@ -1,2 +1,2 @@
-removed_features:
-  - firewall_rules - removed at version 3.0.0; use oxlorg.opnsense.rule instead
+deprecated_features:
+  - firewall_rules - will be removed in version 4.0.0; use oxlorg.opnsense.rule instead
