@@ -2,6 +2,10 @@
 requires_ansible: '>=2.11.0'  # Use '>=2.9.10' instead, if needed
 plugin_routing:
   modules:
+    firewall_rules:
+      deprecation:
+        removal_version: 4.0.0
+        warning_text: Use oxlorg.opnsense.rule instead.
     system_settings_logging:
       deprecation:
         removal_version: 4.0.0
@@ -10,6 +14,10 @@ plugin_routing:
       deprecation:
         removal_version: 3.0.0
         warning_text: Use oxlorg.opnsense.alias instead.
+    system_settings_logging:
+      deprecation:
+        removal_version: 3.0.0
+        warning_text: Use oxlorg.opnsense.syslog instead.
     firewall_rules:
       deprecation:
         removal_version: 3.0.0
