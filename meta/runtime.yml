@@ -20,5 +20,5 @@ plugin_routing:
         warning_text: Use oxlorg.opnsense.user, oxlorg.opnsense.group and oxlorg.opnsense.privilege instead.
     system_high_availability_settings:
       deprecation:
-        removal_version: 3.0.0
+        removal_version: 5.0.0
         warning_text: Use oxlorg.opnsense.hasync_general and oxlorg.opnsense.hasync_service instead.
