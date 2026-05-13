@@ -1,2 +1,2 @@
-removed_features:
-  - system_settings_logging - removed at version 3.0.0; use oxlorg.opnsense.syslog instead
+deprecated_features:
+  - system_settings_logging - will be removed in version 4.0.0; use oxlorg.opnsense.syslog instead
